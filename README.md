@@ -114,6 +114,7 @@ The four plots that you will need to construct are shown below.
     plot1()
 	
 From Project Output
+
 ![plot1 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot1.png)
 	
 From course original png
@@ -127,9 +128,11 @@ From course original png
     plot2()
 
 From Project Output
+
 ![plot2 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot2.png)
 
 From course original png
+
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
 
@@ -139,9 +142,11 @@ From course original png
     plot3()
 
 From Project Output
+
 ![plot3 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot3.png)
 
 From course original png
+
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
 
@@ -151,8 +156,10 @@ From course original png
     plot4()
 
 From Project Output
+
 ![plot4 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot4.png)
 
 From course original png
+
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
