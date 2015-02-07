@@ -2,15 +2,25 @@
 
 
 Files list:
+
 README.md:  Modified README for my project-1
+
 plot1.R:	Generate plot1.png	
+
 plot1.png:  Output of plot1.R	
+
 plot2.R:	Generate plot2.png	
+
 plot2.png:	Output of plot2.R	
+
 plot3.R:	Generate plot3.png	
+
 plot3.png:	Output of plot3.R	
+
 plot4.R:	Generate plot4.png
+
 plot4.png:	Output of plot4.R	
+
 subDataset.R Create sub Dataset
 
 This assignment uses data from
