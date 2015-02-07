@@ -1,5 +1,18 @@
 ## Course Project-1 Introduction
 
+
+Files list:
+README.md:  Modified README for my project-1
+plot1.R:	Generate plot1.png	
+plot1.png:  Output of plot1.R	
+plot2.R:	Generate plot2.png	
+plot2.png:	Output of plot2.R	
+plot3.R:	Generate plot3.png	
+plot3.png:	Output of plot3.R	
+plot4.R:	Generate plot4.png
+plot4.png:	Output of plot4.R	
+subDataset.R Create sub Dataset
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
@@ -89,6 +102,11 @@ The four plots that you will need to construct are shown below.
 
     source("plot1.R")
     plot1()
+	
+From Project Output
+![plot1 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot1.png)
+	
+From course original png
 
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
@@ -98,6 +116,10 @@ The four plots that you will need to construct are shown below.
     source("plot2.R")
     plot2()
 
+From Project Output
+![plot2 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot2.png)
+
+From course original png
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
 
@@ -106,6 +128,10 @@ The four plots that you will need to construct are shown below.
     source("plot3.R")
     plot3()
 
+From Project Output
+![plot3 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot3.png)
+
+From course original png
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
 
@@ -114,5 +140,9 @@ The four plots that you will need to construct are shown below.
     source("plot4.R")
     plot4()
 
+From Project Output
+![plot4 from project](https://github.com/EricYangISISI/ExData_Plotting1/blob/master/plot4.png)
+
+From course original png
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
